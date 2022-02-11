@@ -1,4 +1,4 @@
-```c++
+'''c++
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -52,4 +52,4 @@ int main(int argc, const char* argv[]) {
     }
     return 0;
 }
-```
+'''
